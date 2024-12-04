@@ -1,4 +1,4 @@
-# Registration-Form
+# Registration-Form   and #machine learning tasks
 REGISTRATION FORM WITH DYNAMIC CSS AND JAVASCRIPT VALIDATION
 This repository contains a single file implementation of an advanced and visually appealing registration form. the form is built using html, css, and javascript, and all styling and scripting are embedded within the index.html file.
 
